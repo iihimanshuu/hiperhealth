@@ -17,7 +17,8 @@ can guide you through the process.
 
 ## From sources
 
-The sources for hiperhealth can be downloaded from the [Github repo](https://github.com/hiperhealth/hiperhealth).
+The sources for hiperhealth can be downloaded from the
+[Github repo](https://github.com/hiperhealth/hiperhealth).
 
 You can either clone the public repository:
 
@@ -25,7 +26,8 @@ You can either clone the public repository:
 git clone https://github.com/hiperhealth/hiperhealth
 ```
 
-Or download the [tarball](https://github.com/hiperhealth/hiperhealth/tarball/main):
+Or download the
+[tarball](https://github.com/hiperhealth/hiperhealth/tarball/main):
 
 ```bash
 curl -OJL https://github.com/hiperhealth/hiperhealth/tarball/main
